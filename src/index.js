@@ -5,3 +5,4 @@ import { result } from "./extract-values";
 // console.log(result);
 
 console.log("sdsasaa", result);
+console.log("sdsasaa added", result);
